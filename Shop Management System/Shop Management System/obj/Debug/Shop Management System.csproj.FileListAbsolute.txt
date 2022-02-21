@@ -1,0 +1,46 @@
+D:\Users\hp\Desktop\Shop Management System\Shop Management System\bin\Debug\Shop Management System.exe.config
+D:\Users\hp\Desktop\C# Shop Management Project\Shop Management System\Shop Management System\bin\Debug\Shop Management System.exe.config
+D:\Users\hp\Desktop\C# Shop Management Project\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.Login.resources
+D:\Users\hp\Desktop\C# Shop Management Project\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.Properties.Resources.resources
+D:\Users\hp\Desktop\C# Shop Management Project\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.Registration.resources
+D:\Users\hp\Desktop\C# Shop Management Project\Shop Management System\Shop Management System\obj\Debug\Shop Management System.csproj.GenerateResource.Cache
+D:\Users\hp\Desktop\C# Shop Management Project\Shop Management System\Shop Management System\bin\Debug\Shop Management System.exe
+D:\Users\hp\Desktop\C# Shop Management Project\Shop Management System\Shop Management System\bin\Debug\Shop Management System.pdb
+D:\Users\hp\Desktop\C# Shop Management Project\Shop Management System\Shop Management System\obj\Debug\Shop Management System.exe
+D:\Users\hp\Desktop\C# Shop Management Project\Shop Management System\Shop Management System\obj\Debug\Shop Management System.pdb
+D:\Users\hp\Desktop\C# Shop Management Project\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.Admin.resources
+D:\Users\hp\Desktop\C# Shop Management Project\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.User.resources
+D:\Users\hp\Desktop\C# Shop Management Project\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.MyDetailsUC.resources
+D:\Users\hp\Desktop\C# Shop Management Project\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.HomeUC.resources
+D:\Users\hp\Desktop\C# Shop Management Project - Copy (2)\Shop Management System\Shop Management System\bin\Debug\Shop Management System.exe.config
+D:\Users\hp\Desktop\C# Shop Management Project - Copy (2)\Shop Management System\Shop Management System\obj\Debug\Shop Management System.exe
+D:\Users\hp\Desktop\C# Shop Management Project - Copy (2)\Shop Management System\Shop Management System\obj\Debug\Shop Management System.pdb
+D:\Users\hp\Desktop\C# Shop Management Project - Copy (2)\Shop Management System\Shop Management System\bin\Debug\Shop Management System.exe
+D:\Users\hp\Desktop\C# Shop Management Project - Copy (2)\Shop Management System\Shop Management System\bin\Debug\Shop Management System.pdb
+D:\Users\hp\Desktop\C# Shop Management Project - Copy (2)\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.Admin.resources
+D:\Users\hp\Desktop\C# Shop Management Project - Copy (2)\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.HomeUC.resources
+D:\Users\hp\Desktop\C# Shop Management Project - Copy (2)\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.Login.resources
+D:\Users\hp\Desktop\C# Shop Management Project - Copy (2)\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.MyDetailsUC.resources
+D:\Users\hp\Desktop\C# Shop Management Project - Copy (2)\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.Properties.Resources.resources
+D:\Users\hp\Desktop\C# Shop Management Project - Copy (2)\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.Registration.resources
+D:\Users\hp\Desktop\C# Shop Management Project - Copy (2)\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.User.resources
+D:\Users\hp\Desktop\C# Shop Management Project - Copy (2)\Shop Management System\Shop Management System\obj\Debug\Shop Management System.csproj.GenerateResource.Cache
+D:\Users\hp\Desktop\C# Shop Management\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.Admin.resources
+D:\Users\hp\Desktop\C# Shop Management\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.AdminUC.resources
+D:\Users\hp\Desktop\C# Shop Management\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.HistoryUC.resources
+D:\Users\hp\Desktop\C# Shop Management\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.HomeUC.resources
+D:\Users\hp\Desktop\C# Shop Management\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.ItemUC.resources
+D:\Users\hp\Desktop\C# Shop Management\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.Login.resources
+D:\Users\hp\Desktop\C# Shop Management\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.MyDetailsUC.resources
+D:\Users\hp\Desktop\C# Shop Management\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.ProductUC.resources
+D:\Users\hp\Desktop\C# Shop Management\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.Properties.Resources.resources
+D:\Users\hp\Desktop\C# Shop Management\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.Registration.resources
+D:\Users\hp\Desktop\C# Shop Management\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.TotalSellUC.resources
+D:\Users\hp\Desktop\C# Shop Management\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.User.resources
+D:\Users\hp\Desktop\C# Shop Management\Shop Management System\Shop Management System\obj\Debug\Shop Management System.csproj.GenerateResource.Cache
+D:\Users\hp\Desktop\C# Shop Management\Shop Management System\Shop Management System\bin\Debug\Shop Management System.exe.config
+D:\Users\hp\Desktop\C# Shop Management\Shop Management System\Shop Management System\bin\Debug\Shop Management System.exe
+D:\Users\hp\Desktop\C# Shop Management\Shop Management System\Shop Management System\bin\Debug\Shop Management System.pdb
+D:\Users\hp\Desktop\C# Shop Management\Shop Management System\Shop Management System\obj\Debug\Shop Management System.exe
+D:\Users\hp\Desktop\C# Shop Management\Shop Management System\Shop Management System\obj\Debug\Shop Management System.pdb
+D:\Users\hp\Desktop\C# Shop Management\Shop Management System\Shop Management System\obj\Debug\Shop_Management_System.PaymentUC.resources
